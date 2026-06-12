@@ -77,4 +77,3 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
    # or using nodemon for development
    npm run dev
 ```
-````
