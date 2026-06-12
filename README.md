@@ -59,6 +59,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
 
 ```bash
    npm install
+```
 
 3. **Configure Environment Variables:Create a .env file in the root directory and add your database credentials:**
 
