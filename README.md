@@ -53,6 +53,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
 ```bash
    git clone https://github.com/YourUsername/warehouse-management-api.git
    cd warehouse-management-api
+```
 
 2. **Install dependencies:**
 
