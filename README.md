@@ -31,6 +31,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
 ├── utils/            # Helper functions (db connection, text formatters, error parsers)
 ├── data.js           # Seed data for initial database population
 └── app.js            # Application entry point & configuration
+````
 
 ## 🔗 API Endpoints (Base URL: `/api/v1`)
 
