@@ -68,9 +68,10 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
    DB_USER=root
    DB_PASS=yourpassword
    DB_NAME=warehouse_db
+```
 
 4. **Run the Application:**
-```
+
 ```bash
    npm start
    # or using nodemon for development
