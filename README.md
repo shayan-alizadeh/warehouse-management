@@ -51,7 +51,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/YourUsername/warehouse-management-api.git
+   git clone https://github.com/shayan-alizadeh/warehouse-management-api.git
    cd warehouse-management-api
 ```
 
@@ -67,7 +67,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
    DB_HOST=localhost
    DB_USER=root
    DB_PASS=yourpassword
-   DB_NAME=e_commerce
+   DB_NAME=warehouse
 ```
 
 4. **Run the Application:**
