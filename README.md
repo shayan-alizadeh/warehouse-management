@@ -67,7 +67,7 @@ A robust, RESTful API backend for a Warehouse and Inventory Management System. B
    DB_HOST=localhost
    DB_USER=root
    DB_PASS=yourpassword
-   DB_NAME=warehouse_db
+   DB_NAME=e_commerce
 ```
 
 4. **Run the Application:**
