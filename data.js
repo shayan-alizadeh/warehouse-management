@@ -9,7 +9,7 @@ const categories = [
     },
     {
         title: "نوشیدنی و عرقیجات",
-        slug: "drinks",
+        slug: "drink",
     },
     {
         title: "ادویه، چاشنی، افزودنی",
