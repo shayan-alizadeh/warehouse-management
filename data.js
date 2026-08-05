@@ -5,7 +5,7 @@ const categories = [
     },
     {
         title: "شیرینی، خشکبار و تنقلات",
-        slug: "sweets-snacks",
+        slug: "sweets",
     },
     {
         title: "نوشیدنی و عرقیجات",
