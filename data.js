@@ -34,7 +34,7 @@ const stuffs = [
         title: "پودر ماشین لباسشویی واش لند مدل Super Cleaning وزن 500 گرم",
         buyPrice: 30000,
         sellPrice: 40000,
-        description: "",
+        description: "ab",
         categoryId: 1,
     },
     {
