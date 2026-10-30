@@ -14,7 +14,7 @@ const Stuff = sequelize.define(
             },
             validate: {
                 notNull: {
-                    msg: "وارد کردن عنوان کالا اجباری است",
+                    msg: "وارد کردن عنوان کالا اجباری اس",
                 },
                 isShort(value) {
                     if (value.length < 3) {
