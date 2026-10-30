@@ -10,7 +10,7 @@ const Invoice = sequelize.define(
             allowNull: false,
             validate: {
                 notNull: {
-                    msg: "نوع فاکتور را مشخص کنید",
+                    msg: "نوع فاکتور را مشخص کنی",
                 },
                 isNotValid(value) {
                     if (value !== "sell" && value !== "buy") {
