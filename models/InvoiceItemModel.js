@@ -44,7 +44,7 @@ const InvoiceItem = sequelize.define(
             {
                 type: "unique",
                 fields: ["stuffId", "invoiceId"],
-                msg: "فاکتور نباید کالای تکراری داشته باشد",
+                msg: "فاکتور نباید کالای تکراری داشته باش",
             },
         ],
     }
