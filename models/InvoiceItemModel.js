@@ -33,7 +33,7 @@ const InvoiceItem = sequelize.define(
             allowNull: false,
             validate: {
                 notNull: {
-                    msg: "وارد کردن تعداد کالا اجباری اس",
+                    msg: "وارد کردن تعداد کالا اجباری است",
                 },
             },
         },
