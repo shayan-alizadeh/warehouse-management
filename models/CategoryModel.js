@@ -3,7 +3,7 @@ import sequelize from "../utils/db.js";
 import { slugify } from "../utils/helperFunctions.js";
 
 const Category = sequelize.define(
-    "Category",
+    "Categor",
     {
         title: {
             type: DataTypes.STRING(100),
