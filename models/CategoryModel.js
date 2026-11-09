@@ -19,7 +19,7 @@ const Category = sequelize.define(
                 },
                 isShort(value) {
                     if (value.length < 2) {
-                        throw new Error(enToFa(" عنوان دسته باید حداقل 2 کاراکتر باشد"));
+                        throw new Error(enToFa("عنوان دسته باید حداقل 2 کاراکتر باشد"));
                     }
                 },
                 isLong(value) {
