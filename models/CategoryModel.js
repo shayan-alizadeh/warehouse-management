@@ -10,7 +10,7 @@ const Category = sequelize.define(
             allowNull: false,
             set(value) {
                 if (value) {
-                    this.setDataValue("titl", String(value).trim());
+                    this.setDataValue("title", String(value).trim());
                 }
             },
             validate: {
